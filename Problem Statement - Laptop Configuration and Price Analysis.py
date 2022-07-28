@@ -75,7 +75,7 @@ ldata.isna().sum()
 ldata.duplicated().sum()
 
 
-# In[7]:
+
 
 
 #description for the data frame
