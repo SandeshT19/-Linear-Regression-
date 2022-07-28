@@ -32,7 +32,7 @@ Weight: Laptop Weight
 Price_euros: Price in euros
 
 
---What Steps we are performing  to achive  above objective:
+## What Steps we are performing  to achive  above objective:
 
 1) Importing base packages.
 
