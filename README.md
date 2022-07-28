@@ -18,12 +18,21 @@ Weight: Laptop Weight
 Price_euros: Price in euros
 
 What Steps we are performing  to achive  above objective:
-1)Importing base packges 
+
+1)Importing base packges .
+
 2)Data cleaning and summarization .
+
 3)Missing value treatment .
+
 4)Feture enginnering and text  colum formatting.
+
 6)testing mutltiple regression models and choosing best one.
-7)Hyper tunning the model
-8)predcting test scores with diffrent matrices 
-9)preinting the important fetuers for the preeiction as per best model
-10)conclusion 
+
+7)Hyper tunning the model.
+
+8)predcting test scores with diffrent matrices .
+
+9)preinting the important fetuers for the preeiction as per best model.
+
+10)conclusion .
