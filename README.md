@@ -1,5 +1,19 @@
-# Regression-
+# Linear Regression-
 understanding and predicting the Laptop prices based on features 
+
+As I am mostly focusing on coding and the data science technique to understand data and get most of it using Liner models as per my knowledge and understanding in this notebook. I have skip the theory part for the Liner Regression and it functioning which you will get plenty of theoretical material on internet.
+Following are the few articles which will help you to get basic understanding and theoretical concept about Liner Regression models 
+
+# Reference materials 
+https://machinelearningmastery.com/linear-regression-for-machine-learning/
+https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0
+https://medium.datadriveninvestor.com/basics-of-linear-regression-9b529aeaa0a5
+https://www.simplilearn.com/tutorials/scikit-learn-tutorial/sklearn-linear-regression-with-examples
+
+#Simple and short best video
+https://www.youtube.com/watch?v=nk2CQITm_eo
+
+
 
 ## Context and Objective :
 
